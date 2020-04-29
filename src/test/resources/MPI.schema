@@ -1,0 +1,6 @@
+    message spark_schema {
+  optional binary country (UTF8);
+  optional binary region (UTF8);
+  optional binary world_region (UTF8);
+  optional double MPI,
+  }

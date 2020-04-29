@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/a1394620/Desktop/Scala Assignment 2/src/test/resources/lender.schema,/Users/a1394620/Desktop/Scala Assignment 2/target/scala-2.12/test-classes/lender.schema)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/a1394620/Desktop/Scala Assignment 2/src/test/resources/loans.schema,/Users/a1394620/Desktop/Scala Assignment 2/target/scala-2.12/test-classes/loans.schema)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/a1394620/Desktop/Scala Assignment 2/src/test/resources/MPI.schema,/Users/a1394620/Desktop/Scala Assignment 2/target/scala-2.12/test-classes/MPI.schema)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/a1394620/Desktop/Scala Assignment 2/src/test/resources/log4j.properties,/Users/a1394620/Desktop/Scala Assignment 2/target/scala-2.12/test-classes/log4j.properties)[0m

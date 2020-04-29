@@ -1,0 +1,16 @@
+message spark_schema {
+  optional int32 loan_id;
+  optional binary borrower_name (UTF8);
+  optional int32 profile_popularity;
+  optional int32 loan_amount;
+  optional int32 funded_amount;
+  optional int32 amount_needed;
+  optional double lars_ratio,
+  optional binary posted_date (UTF8);
+  optional binary planned_expiration_date (UTF8);
+  optional double borrower_rating;
+  optional binary country (UTF8);
+  optional binary business_sector (UTF8);
+  optional binary business_activity (UTF8);
+}
+

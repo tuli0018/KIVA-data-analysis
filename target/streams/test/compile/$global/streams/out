@@ -1,0 +1,49 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:81:17: value problem1 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem1(tripDataRdd) must equal(17270400)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:88:17: value problem2 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem2(tripDataRdd) must equal(1069)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:95:17: value problem3 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem3(tripDataRdd).toSet must equal(Set("Customer", "Subscriber"))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:102:17: value problem4 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem4(tripDataRdd) must equal("94107")[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:109:17: value problem5 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem5(tripDataRdd) must equal(920)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:116:17: value problem6 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem6(tripDataRdd) must equal(354152)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:123:17: value problem7 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem7(tripDataRdd) must be(0.0025 +- .0003)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:131:17: value problem8 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem8(tripDataRdd) must equal (7.40909118E8)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:138:17: value problem9 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.problem9(tripDataRdd, stationDataRdd) must equal ((37.781039,-122.411748))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:149:30: value problem10 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = Assignment1.problem10(tripDataRdd, stationDataRdd).toSeq[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:165:17: value dfProblem11 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.dfProblem11(tripDataDF).schema.length must equal (1)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:172:17: value dfProblem12 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.dfProblem12(tripDataDF).count() must equal (17255)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/assignment1/Assignment1Test.scala:179:17: value dfProblem13 is not a member of object com.spark.assignment1.Assignment1[0m
+[0m[[0m[31merror[0m] [0m[0m    Assignment1.dfProblem13(tripDataDF) must equal (370454559)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/example/ExampleDriverTest.scala:25:38: value doubleTripDuration is not a member of object com.spark.example.ExampleDriver[0m
+[0m[[0m[31merror[0m] [0m[0m    val doubledCount = ExampleDriver.doubleTripDuration(spark, tripData)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/example/ExampleDriverTest.scala:26:43: value aggregateDuration is not a member of object com.spark.example.ExampleDriver[0m
+[0m[[0m[31merror[0m] [0m[0m    val originalDockCount = ExampleDriver.aggregateDuration(spark, tripData)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/a1394620/Desktop/Scala Assignment 2/src/test/scala/com/spark/example/ExampleDriverTest.scala:27:42: value aggregateDuration is not a member of object com.spark.example.ExampleDriver[0m
+[0m[[0m[31merror[0m] [0m[0m    val doubledDockCount = ExampleDriver.aggregateDuration(spark, doubledCount)[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m16 errors found[0m

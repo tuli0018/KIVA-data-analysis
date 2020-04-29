@@ -1,0 +1,11 @@
+message spark_schema {
+    optional int32 partner_id;
+    optional binary lender_name (UTF8);
+    optional binary sector (UTF8);
+    optional binary loan_theme_type (UTF8);
+    optional binary country (UTF8);
+    optional binary region (UTF8);
+    optional int32 number_of_loans;
+    optional int32 loaned_amount_for_theme_region_combo;
+}
+

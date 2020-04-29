@@ -1,0 +1,1009 @@
+country,region,world_region,MPI
+Afghanistan,Badakhshan,South Asia,0.387
+Afghanistan,Badghis,South Asia,0.466
+Afghanistan,Baghlan,South Asia,0.3
+Afghanistan,Balkh,South Asia,0.301
+Afghanistan,Bamyan,South Asia,0.325
+Afghanistan,Daykundi,South Asia,0.313
+Afghanistan,Farah,South Asia,0.319
+Afghanistan,Faryab,South Asia,0.25
+Afghanistan,Ghazni,South Asia,0.245
+Afghanistan,Ghor,South Asia,0.384
+Afghanistan,Helmand,South Asia,0.261
+Afghanistan,Herat,South Asia,0.353
+Afghanistan,Jawzjan,South Asia,0.293
+Afghanistan,Kabul,South Asia,0.117
+Afghanistan,Kandahar,South Asia,0.437
+Afghanistan,Kapisa,South Asia,0.28
+Afghanistan,Khost,South Asia,0.296
+Afghanistan,Kunarha,South Asia,0.269
+Afghanistan,Kunduz,South Asia,0.294
+Afghanistan,Laghman,South Asia,0.369
+Afghanistan,Logar,South Asia,0.187
+Afghanistan,Nangarhar,South Asia,0.287
+Afghanistan,Nimroz,South Asia,0.231
+Afghanistan,Nooristan,South Asia,0.611
+Afghanistan,Paktika,South Asia,0.137
+Afghanistan,Paktya,South Asia,0.218
+Afghanistan,Panjsher,South Asia,0.12
+Afghanistan,Parwan,South Asia,0.294
+Afghanistan,Samangan,South Asia,0.35
+Afghanistan,Sar-E-Pul,South Asia,0.341
+Afghanistan,Takhar,South Asia,0.361
+Afghanistan,Urozgan,South Asia,0.624
+Afghanistan,Wardak,South Asia,0.34
+Afghanistan,Zabul,South Asia,0.175
+Albania,,Europe and Central Asia,0.387
+Armenia,,Europe and Central Asia,0.466
+Azerbaijan,,Europe and Central Asia,0.3
+Burundi,Bujumbura Mairie,Sub-Saharan Africa,0.301
+Burundi,Nord,Sub-Saharan Africa,0.325
+Burundi,Centre-Est,Sub-Saharan Africa,0.313
+Burundi,Ouest,Sub-Saharan Africa,0.319
+Burundi,Sud,Sub-Saharan Africa,0.25
+Benin,Alibori,Sub-Saharan Africa,0.245
+Benin,Atacora,Sub-Saharan Africa,0.384
+Benin,Atlantique,Sub-Saharan Africa,0.261
+Benin,Borgou,Sub-Saharan Africa,0.353
+Benin,Collines,Sub-Saharan Africa,0.293
+Benin,Couffo,Sub-Saharan Africa,0.117
+Benin,Donga,Sub-Saharan Africa,0.437
+Benin,Littoral,Sub-Saharan Africa,0.28
+Benin,Mono,Sub-Saharan Africa,0.296
+Benin,Ouðmð,Sub-Saharan Africa,0.269
+Benin,Plateau,Sub-Saharan Africa,0.294
+Benin,Zou,Sub-Saharan Africa,0.369
+Burkina Faso,Boucle de mouhoun,Sub-Saharan Africa,0.187
+Burkina Faso,Cascades,Sub-Saharan Africa,0.287
+Burkina Faso,Centre,Sub-Saharan Africa,0.231
+Burkina Faso,Centre-est,Sub-Saharan Africa,0.611
+Burkina Faso,Centre-nord,Sub-Saharan Africa,0.137
+Burkina Faso,Centre-ouest,Sub-Saharan Africa,0.218
+Burkina Faso,Centre-sud,Sub-Saharan Africa,0.12
+Burkina Faso,Est,Sub-Saharan Africa,0.294
+Burkina Faso,Hauts basins,Sub-Saharan Africa,0.35
+Burkina Faso,Nord,Sub-Saharan Africa,0.341
+Burkina Faso,Plateau central,Sub-Saharan Africa,0.524
+Burkina Faso,Sahel,Sub-Saharan Africa,0.69
+Burkina Faso,Sud-ouest,Sub-Saharan Africa,0.655
+Bangladesh,Barisal,South Asia,0.224
+Bangladesh,Chittagong,South Asia,0.186
+Bangladesh,Dhaka,South Asia,0.174
+Bangladesh,Khulna,South Asia,0.156
+Bangladesh,Rajshahi,South Asia,0.192
+Bangladesh,Rangpur,South Asia,0.206
+Bangladesh,Sylhet,South Asia,0.32
+Bosnia and Herzegovina,,Europe and Central Asia,0.301
+Belize,Corozal,Latin America and Caribbean,0.325
+Belize,Orange Walk,Latin America and Caribbean,0.313
+Belize,Belize (excluding Belize City South Side),Latin America and Caribbean,0.319
+Belize,Stann Creek,Latin America and Caribbean,0.25
+Belize,Toledo,Latin America and Caribbean,0.245
+Belize,Cayo,Latin America and Caribbean,0.384
+Belize,Belize City South Side,Latin America and Caribbean,0.261
+"Bolivia, Plurinational State of",Chuquisaca,Latin America and Caribbean,0.353
+"Bolivia, Plurinational State of",La Paz,Latin America and Caribbean,0.293
+"Bolivia, Plurinational State of",Cochabamba,Latin America and Caribbean,0.117
+"Bolivia, Plurinational State of",Oruro,Latin America and Caribbean,0.437
+"Bolivia, Plurinational State of",Potosð,Latin America and Caribbean,0.28
+"Bolivia, Plurinational State of",Tarija,Latin America and Caribbean,0.296
+"Bolivia, Plurinational State of",Santa Cruz,Latin America and Caribbean,0.269
+"Bolivia, Plurinational State of",Beni,Latin America and Caribbean,0.294
+"Bolivia, Plurinational State of",Pando,Latin America and Caribbean,0.087
+Brazil,Acre,Latin America and Caribbean,0.072
+Brazil,Alagoas,Latin America and Caribbean,0.042
+Brazil,Amapð,Latin America and Caribbean,0.022
+Brazil,Amazonas,Latin America and Caribbean,0.044
+Brazil,Bahia,Latin America and Caribbean,0.029
+Brazil,Cearð,Latin America and Caribbean,0.029
+Brazil,Distrito Federal,Latin America and Caribbean,0.008
+Brazil,Espðrito Santo,Latin America and Caribbean,0.018
+Brazil,Goiðs,Latin America and Caribbean,0.017
+Brazil,Maranhðo,Latin America and Caribbean,0.046
+Brazil,Mato Grosso,Latin America and Caribbean,0.019
+Brazil,Mato Grosso do Sul,Latin America and Caribbean,0.019
+Brazil,Minas Gerais,Latin America and Caribbean,0.021
+Brazil,Paranð,Latin America and Caribbean,0.016
+Brazil,Paraðba,Latin America and Caribbean,0.032
+Brazil,Parð,Latin America and Caribbean,0.035
+Brazil,Pernambuco,Latin America and Caribbean,0.027
+Brazil,Piauð,Latin America and Caribbean,0.039
+Brazil,Rio Grande do Norte,Latin America and Caribbean,0.03
+Brazil,Rio Grande do Sul,Latin America and Caribbean,0.012
+Brazil,Rio de Janeiro,Latin America and Caribbean,0.011
+Brazil,Rondðnia,Latin America and Caribbean,0.024
+Brazil,Roraima,Latin America and Caribbean,0.029
+Brazil,Santa Catarina,Latin America and Caribbean,0.019
+Brazil,Sergipe,Latin America and Caribbean,0.034
+Brazil,Sðo Paulo,Latin America and Caribbean,0.012
+Brazil,Tocantins,Latin America and Caribbean,0.03
+Barbados,,Latin America and Caribbean,0.611
+Bhutan,Bumthang,South Asia,0.137
+Bhutan,Chukha,South Asia,0.218
+Bhutan,Dagana,South Asia,0.12
+Bhutan,Haa,South Asia,0.294
+Bhutan,Lhuntse,South Asia,0.35
+Bhutan,Mongar,South Asia,0.341
+Bhutan,Paro,South Asia,0.026
+Bhutan,Pemagatshel,South Asia,0.128
+Bhutan,Punakha,South Asia,0.088
+Bhutan,Samdrup Jongkhar,South Asia,0.149
+Bhutan,Samtse,South Asia,0.197
+Bhutan,Sarpang,South Asia,0.102
+Bhutan,Thimphu,South Asia,0.016
+Bhutan,Trashigang,South Asia,0.132
+Bhutan,Trashiyangtse,South Asia,0.121
+Bhutan,Trongsa,South Asia,0.148
+Bhutan,Tsirang,South Asia,0.196
+Bhutan,Wangdi,South Asia,0.099
+Bhutan,Zhemgang,South Asia,0.184
+Central African Republic,Ombella-M'poko,Sub-Saharan Africa,0.403
+Central African Republic,Lobaye,Sub-Saharan Africa,0.494
+Central African Republic,Mambðrð-Kadði,Sub-Saharan Africa,0.497
+Central African Republic,Nana-Mambðrð,Sub-Saharan Africa,0.52
+Central African Republic,Sangha-Mbaðrð,Sub-Saharan Africa,0.505
+Central African Republic,Ouham-Pendð,Sub-Saharan Africa,0.479
+Central African Republic,Ouham,Sub-Saharan Africa,0.533
+Central African Republic,Kðmo,Sub-Saharan Africa,0.501
+Central African Republic,Nana-Grðbizi,Sub-Saharan Africa,0.419
+Central African Republic,Ouaka,Sub-Saharan Africa,0.471
+Central African Republic,Haute-Kotto,Sub-Saharan Africa,0.42
+Central African Republic,Bamingui-Bangoran,Sub-Saharan Africa,0.364
+Central African Republic,Basse-Kotto,Sub-Saharan Africa,0.544
+Central African Republic,Mbomou,Sub-Saharan Africa,0.491
+Central African Republic,Haut-Mbomou,Sub-Saharan Africa,0.418
+Central African Republic,Bangui,Sub-Saharan Africa,0.197
+China,East,East Asia and the Pacific,0.008
+China,Central,East Asia and the Pacific,0.013
+China,West,East Asia and the Pacific,0.034
+Cote d'Ivoire,Centre,Sub-Saharan Africa,0.359
+Cote d'Ivoire,Centre-Est,Sub-Saharan Africa,0.297
+Cote d'Ivoire,Centre-Nord,Sub-Saharan Africa,0.322
+Cote d'Ivoire,Centre-Ouest,Sub-Saharan Africa,0.334
+Cote d'Ivoire,Nord,Sub-Saharan Africa,0.477
+Cote d'Ivoire,Nord-Est,Sub-Saharan Africa,0.374
+Cote d'Ivoire,Nord-Ouest,Sub-Saharan Africa,0.518
+Cote d'Ivoire,Ouest,Sub-Saharan Africa,0.38
+Cote d'Ivoire,Sud sans Abidjan,Sub-Saharan Africa,0.264
+Cote d'Ivoire,Sud-ouest,Sub-Saharan Africa,0.394
+Cote d'Ivoire,Ville d'Abidjan,Sub-Saharan Africa,0.109
+Cameroon,Adamaoua,Sub-Saharan Africa,0.269
+Cameroon,Centre (sans Yaoundð),Sub-Saharan Africa,0.179
+Cameroon,Douala,Sub-Saharan Africa,0.024
+Cameroon,Est,Sub-Saharan Africa,0.274
+Cameroon,Extrðme-Nord,Sub-Saharan Africa,0.54
+Cameroon,Littoral (sans Douala),Sub-Saharan Africa,0.091
+Cameroon,Nord,Sub-Saharan Africa,0.458
+Cameroon,Nord-Ouest,Sub-Saharan Africa,0.167
+Cameroon,Ouest,Sub-Saharan Africa,0.146
+Cameroon,Sud,Sub-Saharan Africa,0.131
+Cameroon,Sud-Ouest,Sub-Saharan Africa,0.129
+Cameroon,Yaoundð,Sub-Saharan Africa,0.026
+"Congo, Democratic Republic of the",Kinshasa,Sub-Saharan Africa,0.102
+"Congo, Democratic Republic of the",Bandundu,Sub-Saharan Africa,0.435
+"Congo, Democratic Republic of the",Bas-Congo,Sub-Saharan Africa,0.393
+"Congo, Democratic Republic of the",ðquateur,Sub-Saharan Africa,0.48
+"Congo, Democratic Republic of the",Kasað-Occidental,Sub-Saharan Africa,0.49
+"Congo, Democratic Republic of the",Kasað-Oriental,Sub-Saharan Africa,0.431
+"Congo, Democratic Republic of the",Katanga,Sub-Saharan Africa,0.4
+"Congo, Democratic Republic of the",Maniema,Sub-Saharan Africa,0.409
+"Congo, Democratic Republic of the",Nord-Kivu,Sub-Saharan Africa,0.349
+"Congo, Democratic Republic of the",Orientale,Sub-Saharan Africa,0.401
+"Congo, Democratic Republic of the",Sud-Kivu,Sub-Saharan Africa,0.462
+"Congo, Republic of",Kouilou,Sub-Saharan Africa,0.352
+"Congo, Republic of",Niari,Sub-Saharan Africa,0.238
+"Congo, Republic of",Lðkoumou,Sub-Saharan Africa,0.323
+"Congo, Republic of",Bouenza,Sub-Saharan Africa,0.274
+"Congo, Republic of",Pool,Sub-Saharan Africa,0.299
+"Congo, Republic of",Plateaux,Sub-Saharan Africa,0.357
+"Congo, Republic of",Cuvette,Sub-Saharan Africa,0.246
+"Congo, Republic of",Cuvette-Ouest,Sub-Saharan Africa,0.312
+"Congo, Republic of",Sangha,Sub-Saharan Africa,0.285
+"Congo, Republic of",Likouala,Sub-Saharan Africa,0.304
+"Congo, Republic of",Brazzaville,Sub-Saharan Africa,0.103
+"Congo, Republic of",Pointe-Noire,Sub-Saharan Africa,0.094
+Colombia,"Guajira, Cesar, Magdalena",Latin America and Caribbean,0.056
+Colombia,Barranquilla A. M.,Latin America and Caribbean,0.009
+Colombia,"Atlantico, San Andres, Bolivar Norte",Latin America and Caribbean,0.012
+Colombia,"Bolivar Sur, Sucre, Cordoba",Latin America and Caribbean,0.061
+Colombia,Santanderes,Latin America and Caribbean,0.022
+Colombia,"Boyaca, Cmarca, Meta",Latin America and Caribbean,0.018
+Colombia,Medellin A.M.,Latin America and Caribbean,0.005
+Colombia,Antioquia Sin Medellin,Latin America and Caribbean,0.037
+Colombia,"Caldas, Risaralda, Quindio",Latin America and Caribbean,0.009
+Colombia,"Tolima, Huila, Caqueta",Latin America and Caribbean,0.027
+Colombia,Cali A.M.,Latin America and Caribbean,0.005
+Colombia,Valle Sin Cali Ni Litoral,Latin America and Caribbean,0.012
+Colombia,Cauca Y Nariðo Sin Litoral,Latin America and Caribbean,0.039
+Colombia,Litoral Pacifico,Latin America and Caribbean,0.059
+Colombia,Bogota,Latin America and Caribbean,0.003
+Colombia,Orinoquia Y Amazonia,Latin America and Caribbean,0.028
+Comoros,Mwali (Mohðli),Sub-Saharan Africa,0.213
+Comoros,Ndzuwani (Ndzouani or Anjouan),Sub-Saharan Africa,0.22
+Comoros,Ngazidja (Grande Comore),Sub-Saharan Africa,0.116
+Djibouti,Djibouti,Arab States,0.125
+Djibouti,Other Districts,Arab States,0.214
+Dominican Republic,Cibao Nordeste,Latin America and Caribbean,0.028
+Dominican Republic,Cibao Noroeste,Latin America and Caribbean,0.047
+Dominican Republic,Cibao Norte,Latin America and Caribbean,0.028
+Dominican Republic,Cibao Sur,Latin America and Caribbean,0.03
+Dominican Republic,Del Yuma,Latin America and Caribbean,0.039
+Dominican Republic,El Valle,Latin America and Caribbean,0.078
+Dominican Republic,Enriquillo,Latin America and Caribbean,0.055
+Dominican Republic,Higuamo,Latin America and Caribbean,0.043
+Dominican Republic,Metropolitana,Latin America and Caribbean,0.028
+Dominican Republic,Valdesia,Latin America and Caribbean,0.04
+Algeria,,Arab States,0.611
+Ecuador,Mountains,Latin America and Caribbean,0.014
+Ecuador,Coast,Latin America and Caribbean,0.01
+Ecuador,Amazon,Latin America and Caribbean,0.046
+Ecuador,Galapagos Island,Latin America and Caribbean,0.003
+Egypt,Cairo,Arab States,0.006
+Egypt,Alexandria,Arab States,0.004
+Egypt,Port Said,Arab States,0.003
+Egypt,Suez,Arab States,0.008
+Egypt,Damietta,Arab States,0.011
+Egypt,Dakahlia,Arab States,0.005
+Egypt,Sharkia,Arab States,0.01
+Egypt,Kalyubia,Arab States,0.005
+Egypt,Kafr El-Sheikh,Arab States,0.006
+Egypt,Gharbia,Arab States,0.006
+Egypt,Menoufia,Arab States,0.008
+Egypt,Behera,Arab States,0.012
+Egypt,Ismailia,Arab States,0.009
+Egypt,Giza,Arab States,0.018
+Egypt,Beni Suef,Arab States,0.017
+Egypt,Fayoum,Arab States,0.022
+Egypt,Menya,Arab States,0.022
+Egypt,Assuit,Arab States,0.038
+Egypt,Souhag,Arab States,0.035
+Egypt,Qena,Arab States,0.015
+Egypt,Aswan,Arab States,0.013
+Egypt,Luxor,Arab States,0.015
+Egypt,Red Sea,Arab States,0.015
+Egypt,New Valley,Arab States,0.003
+Egypt,Matroh,Arab States,0.036
+Ethiopia,Tigray,Sub-Saharan Africa,0.537
+Ethiopia,Affar,Sub-Saharan Africa,0.663
+Ethiopia,Amhara,Sub-Saharan Africa,0.588
+Ethiopia,Oromiya,Sub-Saharan Africa,0.592
+Ethiopia,Somali,Sub-Saharan Africa,0.647
+Ethiopia,Benishangul-Gumuz,Sub-Saharan Africa,0.584
+Ethiopia,"Southern Nations, Nationalities, and People's Region",Sub-Saharan Africa,0.574
+Ethiopia,Gambela,Sub-Saharan Africa,0.474
+Ethiopia,Harari,Sub-Saharan Africa,0.333
+Ethiopia,Addis Ababa,Sub-Saharan Africa,0.085
+Ethiopia,Dire Dawa,Sub-Saharan Africa,0.338
+Gabon,Libreville/Port-Gentil,Sub-Saharan Africa,0.024
+Gabon,Estuaire (sans Libreville),Sub-Saharan Africa,0.063
+Gabon,Haut-Ogoouð,Sub-Saharan Africa,0.092
+Gabon,Moyen-Ogoouð,Sub-Saharan Africa,0.138
+Gabon,Ngounið,Sub-Saharan Africa,0.184
+Gabon,Nyanga,Sub-Saharan Africa,0.16
+Gabon,Ogoouð Maritime (sans Port-Gentil),Sub-Saharan Africa,0.076
+Gabon,Ogoouð-Ivindo,Sub-Saharan Africa,0.264
+Gabon,Ogoouð-Lolo,Sub-Saharan Africa,0.152
+Gabon,Woleu-Nðtem,Sub-Saharan Africa,0.096
+Ghana,Ashanti,Sub-Saharan Africa,0.101
+Ghana,Brong Ahafo,Sub-Saharan Africa,0.16
+Ghana,Central,Sub-Saharan Africa,0.171
+Ghana,Eastern,Sub-Saharan Africa,0.155
+Ghana,Greater Accra,Sub-Saharan Africa,0.058
+Ghana,Northern,Sub-Saharan Africa,0.382
+Ghana,Upper East,Sub-Saharan Africa,0.289
+Ghana,Upper West,Sub-Saharan Africa,0.259
+Ghana,Volta,Sub-Saharan Africa,0.138
+Ghana,Western,Sub-Saharan Africa,0.122
+Guinea,Bokð,Sub-Saharan Africa,0.418
+Guinea,Conakry,Sub-Saharan Africa,0.122
+Guinea,Faranah,Sub-Saharan Africa,0.599
+Guinea,Kankan,Sub-Saharan Africa,0.603
+Guinea,Kindia,Sub-Saharan Africa,0.503
+Guinea,Labð,Sub-Saharan Africa,0.554
+Guinea,Mamou,Sub-Saharan Africa,0.531
+Guinea,N'Zðrðkorð,Sub-Saharan Africa,0.509
+Gambia,Banjul,Sub-Saharan Africa,0.095
+Gambia,Kanifing,Sub-Saharan Africa,0.157
+Gambia,Brikama,Sub-Saharan Africa,0.242
+Gambia,Mansakonko,Sub-Saharan Africa,0.352
+Gambia,Kerewan,Sub-Saharan Africa,0.397
+Gambia,Kuntaur,Sub-Saharan Africa,0.555
+Gambia,Janjanbureh,Sub-Saharan Africa,0.46
+Gambia,Basse,Sub-Saharan Africa,0.524
+Guinea-Bissau,Bafata,Sub-Saharan Africa,0.545
+Guinea-Bissau,Biombo,Sub-Saharan Africa,0.382
+Guinea-Bissau,Bolama,Sub-Saharan Africa,0.352
+Guinea-Bissau,Cacheu,Sub-Saharan Africa,0.335
+Guinea-Bissau,Gabu,Sub-Saharan Africa,0.544
+Guinea-Bissau,Oio,Sub-Saharan Africa,0.505
+Guinea-Bissau,Quinara,Sub-Saharan Africa,0.414
+Guinea-Bissau,Tombali,Sub-Saharan Africa,0.43
+Guinea-Bissau,Sab,Sub-Saharan Africa,0.163
+Guatemala,Alta Verapaz,Latin America and Caribbean,0.214
+Guatemala,Baja Verapaz,Latin America and Caribbean,0.147
+Guatemala,Chimaltenango,Latin America and Caribbean,0.082
+Guatemala,Chiquimula,Latin America and Caribbean,0.2
+Guatemala,El Progreso,Latin America and Caribbean,0.07
+Guatemala,Escuintla,Latin America and Caribbean,0.067
+Guatemala,Guatemala Municipio,Latin America and Caribbean,0.014
+Guatemala,Guatemala Resto,Latin America and Caribbean,0.036
+Guatemala,Huehuetenango,Latin America and Caribbean,0.187
+Guatemala,Izabal,Latin America and Caribbean,0.106
+Guatemala,Jalapa,Latin America and Caribbean,0.165
+Guatemala,Jutiapa,Latin America and Caribbean,0.113
+Guatemala,Peten,Latin America and Caribbean,0.134
+Guatemala,Quetzaltenango,Latin America and Caribbean,0.094
+Guatemala,Quiche,Latin America and Caribbean,0.193
+Guatemala,Retalhuleu,Latin America and Caribbean,0.1
+Guatemala,Sacatepequez,Latin America and Caribbean,0.048
+Guatemala,San Marcos,Latin America and Caribbean,0.123
+Guatemala,Santa Rosa,Latin America and Caribbean,0.093
+Guatemala,Solola,Latin America and Caribbean,0.09
+Guatemala,Suchitepequez,Latin America and Caribbean,0.112
+Guatemala,Totonicapan,Latin America and Caribbean,0.121
+Guatemala,Zacapa,Latin America and Caribbean,0.112
+Guyana,Barima-Waini,Latin America and Caribbean,0.057
+Guyana,Cuyuni-Mazaruni and Potaro-Siparuni,Latin America and Caribbean,0.095
+Guyana,Demerara-Mahaica,Latin America and Caribbean,0.004
+Guyana,East Berbice-Corentyne,Latin America and Caribbean,0.006
+Guyana,Essequibo Islands-West Demerara,Latin America and Caribbean,0.005
+Guyana,Mahaica-Berbice,Latin America and Caribbean,0.006
+Guyana,Pomeroon-Supenaam,Latin America and Caribbean,0.014
+Guyana,Upper Demerara-Berbice,Latin America and Caribbean,0.004
+Guyana,Upper Takutu-Upper Essequibo,Latin America and Caribbean,0.145
+Honduras,Atlðntida,Latin America and Caribbean,0.045
+Honduras,Colðn,Latin America and Caribbean,0.058
+Honduras,Comayagua,Latin America and Caribbean,0.077
+Honduras,Copðn,Latin America and Caribbean,0.161
+Honduras,Cortðs,Latin America and Caribbean,0.026
+Honduras,Choluteca,Latin America and Caribbean,0.108
+Honduras,El Paraðso,Latin America and Caribbean,0.095
+Honduras,Francisco Morazðn,Latin America and Caribbean,0.031
+Honduras,Gracias a Dios,Latin America and Caribbean,0.124
+Honduras,Intibucð,Latin America and Caribbean,0.139
+Honduras,Islas de la Bahða,Latin America and Caribbean,0.017
+Honduras,La Paz,Latin America and Caribbean,0.107
+Honduras,Lempira,Latin America and Caribbean,0.201
+Honduras,Ocotepeque,Latin America and Caribbean,0.109
+Honduras,Olancho,Latin America and Caribbean,0.089
+Honduras,Santa Bðrbara,Latin America and Caribbean,0.076
+Honduras,Valle,Latin America and Caribbean,0.068
+Honduras,Yoro,Latin America and Caribbean,0.073
+Haiti,Aire Mðtropolitaine/Reste-Ouest,Latin America and Caribbean,0.162
+Haiti,Sud-Est,Latin America and Caribbean,0.307
+Haiti,Nord,Latin America and Caribbean,0.244
+Haiti,Nord-Est,Latin America and Caribbean,0.323
+Haiti,Artibonite,Latin America and Caribbean,0.316
+Haiti,Centre,Latin America and Caribbean,0.391
+Haiti,Sud,Latin America and Caribbean,0.249
+Haiti,Grande-Anse,Latin America and Caribbean,0.378
+Haiti,Nord-Ouest,Latin America and Caribbean,0.311
+Haiti,Nippes,Latin America and Caribbean,0.257
+Indonesia,Aceh,East Asia and the Pacific,0.077
+Indonesia,North Sumatera,East Asia and the Pacific,0.071
+Indonesia,West Sumatera,East Asia and the Pacific,0.056
+Indonesia,Riau,East Asia and the Pacific,0.053
+Indonesia,Jambi,East Asia and the Pacific,0.072
+Indonesia,South Sumatera,East Asia and the Pacific,0.054
+Indonesia,Bengkulu,East Asia and the Pacific,0.059
+Indonesia,Lampung,East Asia and the Pacific,0.065
+Indonesia,Bangka Belitung,East Asia and the Pacific,0.053
+Indonesia,Riau Islands,East Asia and the Pacific,0.041
+Indonesia,DKI Jakarta,East Asia and the Pacific,0.029
+Indonesia,West Java,East Asia and the Pacific,0.057
+Indonesia,Central Java,East Asia and the Pacific,0.053
+Indonesia,DI Yogyakarta,East Asia and the Pacific,0.025
+Indonesia,East Java,East Asia and the Pacific,0.055
+Indonesia,Banten,East Asia and the Pacific,0.075
+Indonesia,Bali,East Asia and the Pacific,0.042
+Indonesia,West Nusa Tenggara,East Asia and the Pacific,0.121
+Indonesia,East Nusa Tenggara,East Asia and the Pacific,0.164
+Indonesia,West Kalimantan,East Asia and the Pacific,0.086
+Indonesia,Central Kalimantan,East Asia and the Pacific,0.084
+Indonesia,South Kalimantan,East Asia and the Pacific,0.085
+Indonesia,East Kalimantan,East Asia and the Pacific,0.058
+Indonesia,North Sulawesi,East Asia and the Pacific,0.059
+Indonesia,Central Sulawesi,East Asia and the Pacific,0.132
+Indonesia,South Sulawesi,East Asia and the Pacific,0.063
+Indonesia,Southeast Sulawesi,East Asia and the Pacific,0.109
+Indonesia,Gorontalo,East Asia and the Pacific,0.128
+Indonesia,West Sulawesi,East Asia and the Pacific,0.161
+Indonesia,Maluku,East Asia and the Pacific,0.105
+Indonesia,North Maluku,East Asia and the Pacific,0.129
+Indonesia,West Papua,East Asia and the Pacific,0.122
+Indonesia,Papua,East Asia and the Pacific,0.234
+India,,South Asia,0.387
+Iraq,Dohuk,Arab States,0.466
+Iraq,Ninewa,Arab States,0.3
+Iraq,Suleimaniya,Arab States,0.301
+Iraq,Kirkuk,Arab States,0.035
+Iraq,Erbil,Arab States,0.031
+Iraq,Diyala,Arab States,0.038
+Iraq,Al-Anbar,Arab States,0.052
+Iraq,Baghdad,Arab States,0.027
+Iraq,Babil,Arab States,0.042
+Iraq,Karbala,Arab States,0.053
+Iraq,Wasit,Arab States,0.058
+Iraq,Salahaddin,Arab States,0.054
+Iraq,Al-Najaf,Arab States,0.055
+Iraq,Al-Qadisiya,Arab States,0.082
+Iraq,Al-Muthanna,Arab States,0.079
+Iraq,Thi-Qar,Arab States,0.06
+Iraq,Missan,Arab States,0.098
+Iraq,Basrah,Arab States,0.045
+Jamaica,Kingston,Latin America and Caribbean,0.009
+Jamaica,St.  Andrew,Latin America and Caribbean,0.007
+Jamaica,St. Thomas,Latin America and Caribbean,0.006
+Jamaica,Portland,Latin America and Caribbean,0.004
+Jamaica,St. Mary,Latin America and Caribbean,0.009
+Jamaica,St. Ann,Latin America and Caribbean,0.004
+Jamaica,Trelawny,Latin America and Caribbean,0.016
+Jamaica,St. James,Latin America and Caribbean,0.003
+Jamaica,Hanover,Latin America and Caribbean,0.007
+Jamaica,Westmoreland,Latin America and Caribbean,0.004
+Jamaica,St. Elizabeth,Latin America and Caribbean,0.013
+Jamaica,Manchester,Latin America and Caribbean,0.006
+Jamaica,Clarendon,Latin America and Caribbean,0.014
+Jamaica,St. Catherine,Latin America and Caribbean,0.004
+Jordan,Central,Arab States,0.005
+Jordan,North,Arab States,0.006
+Jordan,South,Arab States,0.008
+Kazakhstan,,Europe and Central Asia,0.611
+Kenya,Central,Sub-Saharan Africa,0.075
+Kenya,Coast,Sub-Saharan Africa,0.242
+Kenya,Eastern,Sub-Saharan Africa,0.19
+Kenya,Nairobi,Sub-Saharan Africa,0.02
+Kenya,North Eastern,Sub-Saharan Africa,0.509
+Kenya,Nyanza,Sub-Saharan Africa,0.211
+Kenya,Rift Valley,Sub-Saharan Africa,0.205
+Kenya,Western,Sub-Saharan Africa,0.223
+Kyrgyzstan,,Europe and Central Asia,0.611
+Cambodia,Banteay Mean Chey,East Asia and the Pacific,0.097
+Cambodia,Battambang & Pailin,East Asia and the Pacific,0.104
+Cambodia,Kampong Cham,East Asia and the Pacific,0.16
+Cambodia,Kampong Chhnang,East Asia and the Pacific,0.193
+Cambodia,Kampong Speu,East Asia and the Pacific,0.182
+Cambodia,Kampong Thom,East Asia and the Pacific,0.183
+Cambodia,Kampot & Kep,East Asia and the Pacific,0.155
+Cambodia,Kandal,East Asia and the Pacific,0.121
+Cambodia,Kratie,East Asia and the Pacific,0.274
+Cambodia,Mondol Kiri & Rattanak Kiri,East Asia and the Pacific,0.28
+Cambodia,Otdar Mean Chey,East Asia and the Pacific,0.196
+Cambodia,Phnom Penh,East Asia and the Pacific,0.026
+Cambodia,Preah Sihanouk & Kaoh Kong,East Asia and the Pacific,0.091
+Cambodia,Preah Vihear & Steung Treng,East Asia and the Pacific,0.304
+Cambodia,Prey Veng,East Asia and the Pacific,0.12
+Cambodia,Pursat,East Asia and the Pacific,0.221
+Cambodia,Siem Reap,East Asia and the Pacific,0.204
+Cambodia,Svay Rieng,East Asia and the Pacific,0.1
+Cambodia,Takeo,East Asia and the Pacific,0.106
+Lao People's Democratic Republic,Vientiane Capital,East Asia and the Pacific,0.012
+Lao People's Democratic Republic,Phongsaly,East Asia and the Pacific,0.311
+Lao People's Democratic Republic,Luangnamtha,East Asia and the Pacific,0.165
+Lao People's Democratic Republic,Oudomxay,East Asia and the Pacific,0.248
+Lao People's Democratic Republic,Bokeo,East Asia and the Pacific,0.212
+Lao People's Democratic Republic,Luangprabang,East Asia and the Pacific,0.18
+Lao People's Democratic Republic,Huaphanh,East Asia and the Pacific,0.184
+Lao People's Democratic Republic,Xayabury,East Asia and the Pacific,0.079
+Lao People's Democratic Republic,Xiengkhuang,East Asia and the Pacific,0.164
+Lao People's Democratic Republic,Vientiane,East Asia and the Pacific,0.063
+Lao People's Democratic Republic,Borikhamxay,East Asia and the Pacific,0.063
+Lao People's Democratic Republic,Khammuane,East Asia and the Pacific,0.2
+Lao People's Democratic Republic,Savannakhet,East Asia and the Pacific,0.262
+Lao People's Democratic Republic,Saravane,East Asia and the Pacific,0.359
+Lao People's Democratic Republic,Sekong,East Asia and the Pacific,0.254
+Lao People's Democratic Republic,Champasack,East Asia and the Pacific,0.149
+Lao People's Democratic Republic,Attapeu,East Asia and the Pacific,0.215
+Liberia,Bomi,Sub-Saharan Africa,0.407
+Liberia,Bong,Sub-Saharan Africa,0.508
+Liberia,Gbarpolu,Sub-Saharan Africa,0.505
+Liberia,Grand Bassa,Sub-Saharan Africa,0.527
+Liberia,Grand Cape Mount,Sub-Saharan Africa,0.482
+Liberia,Grand Gedeh,Sub-Saharan Africa,0.349
+Liberia,Grand Kru,Sub-Saharan Africa,0.48
+Liberia,Lofa,Sub-Saharan Africa,0.457
+Liberia,Margibi,Sub-Saharan Africa,0.364
+Liberia,Maryland,Sub-Saharan Africa,0.388
+Liberia,Montserrado,Sub-Saharan Africa,0.25
+Liberia,Nimba,Sub-Saharan Africa,0.377
+Liberia,River Cess,Sub-Saharan Africa,0.536
+Liberia,River Gee,Sub-Saharan Africa,0.433
+Liberia,Sinoe,Sub-Saharan Africa,0.445
+Saint Lucia,,Latin America and Caribbean,0.611
+Lesotho,Berea,Sub-Saharan Africa,0.106
+Lesotho,Botha-Bothe,Sub-Saharan Africa,0.149
+Lesotho,Leribe,Sub-Saharan Africa,0.106
+Lesotho,Mafeteng,Sub-Saharan Africa,0.131
+Lesotho,Maseru,Sub-Saharan Africa,0.082
+Lesotho,Mohale'S Hoek,Sub-Saharan Africa,0.178
+Lesotho,Mokhotlong,Sub-Saharan Africa,0.291
+Lesotho,Qacha'S-Nek,Sub-Saharan Africa,0.173
+Lesotho,Quthing,Sub-Saharan Africa,0.151
+Lesotho,Thaba Tseka,Sub-Saharan Africa,0.267
+Morocco,Sahara,Arab States,0.017
+Morocco,Souss-Massa-Draa,Arab States,0.102
+Morocco,El Gharb-Chrarda Bni Hssen,Arab States,0.084
+Morocco,Chaouia Ourdigha,Arab States,0.066
+Morocco,Marrakech-Tensift-El Haouz,Arab States,0.131
+Morocco,Rðgion Oriental,Arab States,0.049
+Morocco,Grand Casablanca,Arab States,0.003
+Morocco,Rabat-Salð-Zemmour-Zair,Arab States,0.016
+Morocco,Doukkala-Abda,Arab States,0.06
+Morocco,Tadla-Azilal,Arab States,0.07
+Morocco,Meknes-Tafilalet,Arab States,0.037
+Morocco,Fes-Boulemane,Arab States,0.042
+Morocco,Taza-Al Hoceima-Taounate,Arab States,0.123
+Morocco,Tanger-Tetouan,Arab States,0.083
+"Moldova, Republic of",,Europe and Central Asia,0.466
+Madagascar,Analamanga,Sub-Saharan Africa,0.178
+Madagascar,Vakinankaratra,Sub-Saharan Africa,0.357
+Madagascar,Itasy,Sub-Saharan Africa,0.397
+Madagascar,Bongolava,Sub-Saharan Africa,0.319
+Madagascar,Haute Matsiatra,Sub-Saharan Africa,0.4
+Madagascar,Anamoroni'i Mania,Sub-Saharan Africa,0.409
+Madagascar,Vatovavy Fitovinany,Sub-Saharan Africa,0.514
+Madagascar,Ihorombe,Sub-Saharan Africa,0.448
+Madagascar,Atsimo Atsinanana,Sub-Saharan Africa,0.531
+Madagascar,Atsinanana,Sub-Saharan Africa,0.269
+Madagascar,Analanjirofo,Sub-Saharan Africa,0.383
+Madagascar,Alaotra Mangoro,Sub-Saharan Africa,0.309
+Madagascar,Boeny,Sub-Saharan Africa,0.31
+Madagascar,Sofia,Sub-Saharan Africa,0.32
+Madagascar,Betsiboka,Sub-Saharan Africa,0.433
+Madagascar,Melaky,Sub-Saharan Africa,0.509
+Madagascar,Atsimo Andrefana,Sub-Saharan Africa,0.427
+Madagascar,Androy,Sub-Saharan Africa,0.547
+Madagascar,Anosy,Sub-Saharan Africa,0.486
+Madagascar,Menabe,Sub-Saharan Africa,0.417
+Madagascar,Diana,Sub-Saharan Africa,0.294
+Madagascar,Sava,Sub-Saharan Africa,0.327
+Maldives,,South Asia,0.387
+Mexico,,Latin America and Caribbean,0.611
+"Macedonia, The former Yugoslav Republic of",,Europe and Central Asia,0.466
+Mali,Kayes,Sub-Saharan Africa,0.485
+Mali,Koulikoro,Sub-Saharan Africa,0.44
+Mali,Sikasso,Sub-Saharan Africa,0.484
+Mali,Sðgou,Sub-Saharan Africa,0.498
+Mali,Mopti,Sub-Saharan Africa,0.594
+Mali,Bamako,Sub-Saharan Africa,0.168
+Myanmar,Ayeyarwaddy,East Asia and the Pacific,0.171
+Myanmar,Bago,East Asia and the Pacific,0.129
+Myanmar,Chin,East Asia and the Pacific,0.152
+Myanmar,Kachin,East Asia and the Pacific,0.083
+Myanmar,Kayah,East Asia and the Pacific,0.099
+Myanmar,Kayin,East Asia and the Pacific,0.183
+Myanmar,Magway,East Asia and the Pacific,0.114
+Myanmar,Mandalay,East Asia and the Pacific,0.099
+Myanmar,Mon,East Asia and the Pacific,0.109
+Myanmar,Naypyitaw,East Asia and the Pacific,0.11
+Myanmar,Rakhine,East Asia and the Pacific,0.258
+Myanmar,Sagaing,East Asia and the Pacific,0.134
+Myanmar,Shan,East Asia and the Pacific,0.194
+Myanmar,Taninthayi,East Asia and the Pacific,0.129
+Myanmar,Yangon,East Asia and the Pacific,0.051
+Montenegro,,Europe and Central Asia,0.387
+Mongolia,Central,East Asia and the Pacific,0.041
+Mongolia,Eastern,East Asia and the Pacific,0.044
+Mongolia,Khangai,East Asia and the Pacific,0.075
+Mongolia,Ulaanbaatar,East Asia and the Pacific,0.006
+Mongolia,Western,East Asia and the Pacific,0.09
+Mozambique,Niassa,Sub-Saharan Africa,0.443
+Mozambique,Cabo Delgado,Sub-Saharan Africa,0.525
+Mozambique,Nampula,Sub-Saharan Africa,0.4
+Mozambique,Zambðzia,Sub-Saharan Africa,0.528
+Mozambique,Tete,Sub-Saharan Africa,0.466
+Mozambique,Manica,Sub-Saharan Africa,0.301
+Mozambique,Sofala,Sub-Saharan Africa,0.381
+Mozambique,Inhambane,Sub-Saharan Africa,0.295
+Mozambique,Gaza,Sub-Saharan Africa,0.306
+Mozambique,Maputo Provðncia,Sub-Saharan Africa,0.133
+Mozambique,Maputo Cidade,Sub-Saharan Africa,0.043
+Mauritania,Hodh Charghy,Sub-Saharan Africa,0.412
+Mauritania,Hodh Gharby,Sub-Saharan Africa,0.438
+Mauritania,Assaba,Sub-Saharan Africa,0.419
+Mauritania,Gorgol,Sub-Saharan Africa,0.46
+Mauritania,Brakna,Sub-Saharan Africa,0.307
+Mauritania,Trarza,Sub-Saharan Africa,0.181
+Mauritania,Adrar,Sub-Saharan Africa,0.184
+Mauritania,Dakhlett Nouadibou,Sub-Saharan Africa,0.039
+Mauritania,Tagant,Sub-Saharan Africa,0.322
+Mauritania,Guidimagha,Sub-Saharan Africa,0.499
+Mauritania,Tirs-Ezemour,Sub-Saharan Africa,0.085
+Mauritania,Nouakchott,Sub-Saharan Africa,0.102
+Malawi,Balaka,Sub-Saharan Africa,0.283
+Malawi,Blantyre City,Sub-Saharan Africa,0.118
+Malawi,Blantyre Rural,Sub-Saharan Africa,0.245
+Malawi,Chikwawa,Sub-Saharan Africa,0.292
+Malawi,Chitipa,Sub-Saharan Africa,0.161
+Malawi,Chradzulu,Sub-Saharan Africa,0.241
+Malawi,Dedza,Sub-Saharan Africa,0.314
+Malawi,Dowa,Sub-Saharan Africa,0.267
+Malawi,Karonga,Sub-Saharan Africa,0.204
+Malawi,Kasungu,Sub-Saharan Africa,0.244
+Malawi,Likoma,Sub-Saharan Africa,0.114
+Malawi,Lilongwe City,Sub-Saharan Africa,0.092
+Malawi,Lilongwe Rural,Sub-Saharan Africa,0.286
+Malawi,Machinga,Sub-Saharan Africa,0.322
+Malawi,Mangochi,Sub-Saharan Africa,0.302
+Malawi,Mchinji,Sub-Saharan Africa,0.314
+Malawi,Mulange,Sub-Saharan Africa,0.286
+Malawi,Mwanza,Sub-Saharan Africa,0.254
+Malawi,Mzimba,Sub-Saharan Africa,0.205
+Malawi,Mzuzu City,Sub-Saharan Africa,0.034
+Malawi,Ndanje,Sub-Saharan Africa,0.285
+Malawi,Neno,Sub-Saharan Africa,0.316
+Malawi,Nkhatabay,Sub-Saharan Africa,0.215
+Malawi,Nkhota Kota,Sub-Saharan Africa,0.245
+Malawi,Ntcheu,Sub-Saharan Africa,0.211
+Malawi,Ntchisi,Sub-Saharan Africa,0.259
+Malawi,Phalombe,Sub-Saharan Africa,0.293
+Malawi,Rumphi,Sub-Saharan Africa,0.205
+Malawi,Salima,Sub-Saharan Africa,0.334
+Malawi,Thyolo,Sub-Saharan Africa,0.259
+Malawi,Zomba City,Sub-Saharan Africa,0.053
+Malawi,Zomba Rural,Sub-Saharan Africa,0.27
+Namibia,Caprivi,Sub-Saharan Africa,0.174
+Namibia,Erongo,Sub-Saharan Africa,0.044
+Namibia,Hardap,Sub-Saharan Africa,0.103
+Namibia,Karas,Sub-Saharan Africa,0.098
+Namibia,Kavango,Sub-Saharan Africa,0.373
+Namibia,Khomas,Sub-Saharan Africa,0.06
+Namibia,Kunene,Sub-Saharan Africa,0.238
+Namibia,Ohangwena,Sub-Saharan Africa,0.348
+Namibia,Omaheke,Sub-Saharan Africa,0.232
+Namibia,Omusati,Sub-Saharan Africa,0.283
+Namibia,Oshana,Sub-Saharan Africa,0.156
+Namibia,Oshikoto,Sub-Saharan Africa,0.218
+Namibia,Otjozondjupa,Sub-Saharan Africa,0.116
+Niger,Agadez,Sub-Saharan Africa,0.405
+Niger,Diffa,Sub-Saharan Africa,0.556
+Niger,Dosso,Sub-Saharan Africa,0.62
+Niger,Maradi,Sub-Saharan Africa,0.664
+Niger,Tahoua,Sub-Saharan Africa,0.646
+Niger,Tillaberi,Sub-Saharan Africa,0.609
+Niger,Zinder,Sub-Saharan Africa,0.641
+Niger,Niamey,Sub-Saharan Africa,0.206
+Nigeria,Sokoto,Sub-Saharan Africa,0.548
+Nigeria,Zamfara,Sub-Saharan Africa,0.605
+Nigeria,Katsina,Sub-Saharan Africa,0.52
+Nigeria,Jigawa,Sub-Saharan Africa,0.552
+Nigeria,Yobe,Sub-Saharan Africa,0.635
+Nigeria,Borno,Sub-Saharan Africa,0.401
+Nigeria,Adamawa,Sub-Saharan Africa,0.295
+Nigeria,Gombe,Sub-Saharan Africa,0.471
+Nigeria,Bauchi,Sub-Saharan Africa,0.583
+Nigeria,Kano,Sub-Saharan Africa,0.434
+Nigeria,Kaduna,Sub-Saharan Africa,0.311
+Nigeria,Kebbi,Sub-Saharan Africa,0.553
+Nigeria,Niger,Sub-Saharan Africa,0.324
+Nigeria,FCT-Abuja,Sub-Saharan Africa,0.108
+Nigeria,Nasarawa,Sub-Saharan Africa,0.251
+Nigeria,Plateau,Sub-Saharan Africa,0.273
+Nigeria,Taraba,Sub-Saharan Africa,0.448
+Nigeria,Benue,Sub-Saharan Africa,0.28
+Nigeria,Kogi,Sub-Saharan Africa,0.113
+Nigeria,Kwara,Sub-Saharan Africa,0.099
+Nigeria,Oyo,Sub-Saharan Africa,0.155
+Nigeria,Osun,Sub-Saharan Africa,0.043
+Nigeria,Ekiti,Sub-Saharan Africa,0.051
+Nigeria,Ondo,Sub-Saharan Africa,0.127
+Nigeria,Edo,Sub-Saharan Africa,0.08
+Nigeria,Anambra,Sub-Saharan Africa,0.05
+Nigeria,Enugu,Sub-Saharan Africa,0.123
+Nigeria,Ebonyi,Sub-Saharan Africa,0.265
+Nigeria,Cross River,Sub-Saharan Africa,0.146
+Nigeria,Akwa Ibom,Sub-Saharan Africa,0.099
+Nigeria,Abia,Sub-Saharan Africa,0.088
+Nigeria,Imo,Sub-Saharan Africa,0.083
+Nigeria,Rivers,Sub-Saharan Africa,0.088
+Nigeria,Bayelsa,Sub-Saharan Africa,0.12
+Nigeria,Delta,Sub-Saharan Africa,0.107
+Nigeria,Lagos,Sub-Saharan Africa,0.035
+Nigeria,Ogun,Sub-Saharan Africa,0.112
+Nicaragua,Nueva Segovia,Latin America and Caribbean,0.113
+Nicaragua,Jinotega,Latin America and Caribbean,0.195
+Nicaragua,Madriz,Latin America and Caribbean,0.104
+Nicaragua,Esteli,Latin America and Caribbean,0.048
+Nicaragua,Chinandega,Latin America and Caribbean,0.047
+Nicaragua,Leon,Latin America and Caribbean,0.031
+Nicaragua,Matagalpa,Latin America and Caribbean,0.099
+Nicaragua,Boaco,Latin America and Caribbean,0.13
+Nicaragua,Managua,Latin America and Caribbean,0.021
+Nicaragua,Masaya,Latin America and Caribbean,0.017
+Nicaragua,Chontales,Latin America and Caribbean,0.082
+Nicaragua,Granada,Latin America and Caribbean,0.035
+Nicaragua,Carazo,Latin America and Caribbean,0.025
+Nicaragua,Rivas,Latin America and Caribbean,0.036
+Nicaragua,Rio San Juan,Latin America and Caribbean,0.133
+Nicaragua,RAAN,Latin America and Caribbean,0.173
+Nicaragua,RAAS,Latin America and Caribbean,0.132
+Nepal,Central Hill,South Asia,0.05
+Nepal,Central Mountain,South Asia,0.094
+Nepal,Central Terai,South Asia,0.199
+Nepal,Eastern Hill,South Asia,0.063
+Nepal,Eastern Mountain,South Asia,0.133
+Nepal,Eastern Terai,South Asia,0.13
+Nepal,Far-Western Hill,South Asia,0.226
+Nepal,Far-Western Mountain,South Asia,0.144
+Nepal,Far-WesternTerai,South Asia,0.092
+Nepal,MId-Western Hill,South Asia,0.213
+Nepal,MId-Western Mountain,South Asia,0.286
+Nepal,MId-WesternTerai,South Asia,0.134
+Nepal,Western  Hill,South Asia,0.072
+Nepal,Western  Terai,South Asia,0.112
+Nepal,Western Mountain,South Asia,0.104
+Pakistan,Punjab,South Asia,0.184
+Pakistan,Sindh,South Asia,0.294
+Pakistan,Khyber Pakhtunkhwa,South Asia,0.247
+Pakistan,Balochistan,South Asia,0.402
+Pakistan,Gilgit Baltistan,South Asia,0.233
+Pakistan,Islamabad (ICT),South Asia,0.039
+Peru,Amazonas,Latin America and Caribbean,0.096
+Peru,ðncash,Latin America and Caribbean,0.044
+Peru,Apurðmac,Latin America and Caribbean,0.091
+Peru,Arequipa,Latin America and Caribbean,0.009
+Peru,Ayacucho,Latin America and Caribbean,0.071
+Peru,Cajamarca,Latin America and Caribbean,0.089
+Peru,Callao,Latin America and Caribbean,0.2324
+Peru,Cusco,Latin America and Caribbean,0.062
+Peru,Huancavelica,Latin America and Caribbean,0.122
+Peru,Huðnuco,Latin America and Caribbean,0.111
+Peru,Ica,Latin America and Caribbean,0.009
+Peru,Junðn,Latin America and Caribbean,0.042
+Peru,La Libertad,Latin America and Caribbean,0.042
+Peru,Lambayeque,Latin America and Caribbean,0.038
+Peru,Lima,Latin America and Caribbean,0.004
+Peru,Loreto,Latin America and Caribbean,0.147
+Peru,Madre de Dios,Latin America and Caribbean,0.024
+Peru,Moquegua,Latin America and Caribbean,0.014
+Peru,Pasco,Latin America and Caribbean,0.064
+Peru,Piura,Latin America and Caribbean,0.05
+Peru,Puno,Latin America and Caribbean,0.069
+Peru,San Martðn,Latin America and Caribbean,0.061
+Peru,Tacna,Latin America and Caribbean,0.008
+Peru,Tumbes,Latin America and Caribbean,0.014
+Peru,Ucayali,Latin America and Caribbean,0.046
+Philippines,National Capital Region,East Asia and the Pacific,0.026
+Philippines,Cordillera Admin Region,East Asia and the Pacific,0.039
+Philippines,Ilocos Region,East Asia and the Pacific,0.027
+Philippines,Cagayan Valley,East Asia and the Pacific,0.039
+Philippines,Central Luzon,East Asia and the Pacific,0.035
+Philippines,Calabarzon,East Asia and the Pacific,0.029
+Philippines,Mimaropa,East Asia and the Pacific,0.091
+Philippines,Bicol Region,East Asia and the Pacific,0.068
+Philippines,Western Visayas,East Asia and the Pacific,0.055
+Philippines,Central Visayas,East Asia and the Pacific,0.055
+Philippines,Eastern Visayas,East Asia and the Pacific,0.054
+Philippines,Zamboanga Peninsula,East Asia and the Pacific,0.075
+Philippines,Northern Mindanao,East Asia and the Pacific,0.093
+Philippines,Davao Peninsula,East Asia and the Pacific,0.066
+Philippines,Soccsksargen,East Asia and the Pacific,0.09
+Philippines,CARAGA,East Asia and the Pacific,0.069
+Philippines,Armm,East Asia and the Pacific,0.14
+"Palestine, State ofa",,Arab States,0.611
+Rwanda,East,Sub-Saharan Africa,0.292
+Rwanda,Kigali City,Sub-Saharan Africa,0.118
+Rwanda,North,Sub-Saharan Africa,0.243
+Rwanda,South,Sub-Saharan Africa,0.295
+Rwanda,West,Sub-Saharan Africa,0.266
+Sudan,Blue Nile,Arab States,0.382
+Sudan,Central Darfor,Arab States,0.501
+Sudan,East Darfor,Arab States,0.481
+Sudan,Gadarif,Arab States,0.404
+Sudan,Gezira,Arab States,0.165
+Sudan,Kassala,Arab States,0.362
+Sudan,Khartoum,Arab States,0.077
+Sudan,North Darfor,Arab States,0.447
+Sudan,North Kordofan,Arab States,0.328
+Sudan,Northern,Arab States,0.047
+Sudan,Red Sea,Arab States,0.223
+Sudan,River Nile,Arab States,0.092
+Sudan,Sinnar,Arab States,0.277
+Sudan,South Darfor,Arab States,0.42
+Sudan,South Kordofan,Arab States,0.422
+Sudan,West Darfor,Arab States,0.458
+Sudan,West Kordofan,Arab States,0.468
+Sudan,White Nile,Arab States,0.267
+Senegal,Center,Sub-Saharan Africa,0.449
+Senegal,North,Sub-Saharan Africa,0.373
+Senegal,Ouest,Sub-Saharan Africa,0.156
+Senegal,South,Sub-Saharan Africa,0.425
+Sierra Leone,Kailahun,Sub-Saharan Africa,0.537
+Sierra Leone,Kenema,Sub-Saharan Africa,0.477
+Sierra Leone,Kono,Sub-Saharan Africa,0.511
+Sierra Leone,Bombali,Sub-Saharan Africa,0.423
+Sierra Leone,Kambia,Sub-Saharan Africa,0.58
+Sierra Leone,Koinadugu,Sub-Saharan Africa,0.601
+Sierra Leone,Port Loko,Sub-Saharan Africa,0.522
+Sierra Leone,Tonkolili,Sub-Saharan Africa,0.541
+Sierra Leone,Bo,Sub-Saharan Africa,0.449
+Sierra Leone,Bonthe,Sub-Saharan Africa,0.478
+Sierra Leone,Moyamba,Sub-Saharan Africa,0.569
+Sierra Leone,Pujehun,Sub-Saharan Africa,0.537
+Sierra Leone,Western Rural,Sub-Saharan Africa,0.319
+Sierra Leone,Western Urban,Sub-Saharan Africa,0.191
+El Salvador,Ahuachapan,Latin America and Caribbean,0.03
+El Salvador,Cabanas,Latin America and Caribbean,0.046
+El Salvador,Chalatenango,Latin America and Caribbean,0.036
+El Salvador,Cuscatlan,Latin America and Caribbean,0.025
+El Salvador,La Libertad,Latin America and Caribbean,0.017
+El Salvador,La Paz,Latin America and Caribbean,0.03
+El Salvador,La Union,Latin America and Caribbean,0.054
+El Salvador,Morazan,Latin America and Caribbean,0.04
+El Salvador,San Miguel,Latin America and Caribbean,0.03
+El Salvador,San Salvador,Latin America and Caribbean,0.01
+El Salvador,San Vicente,Latin America and Caribbean,0.02
+El Salvador,Santa Ana,Latin America and Caribbean,0.027
+El Salvador,Sonsonate,Latin America and Caribbean,0.046
+El Salvador,Usulutan,Latin America and Caribbean,0.03
+Somalia,,Arab States,0.466
+Serbia,,Europe and Central Asia,0.387
+South Sudan,Upper Nile,Sub-Saharan Africa,0.503
+South Sudan,Jonglei and Unity,Sub-Saharan Africa,0.628
+South Sudan,Warap,Sub-Saharan Africa,0.661
+South Sudan,Northern Bahr el Ghazal,Sub-Saharan Africa,0.652
+South Sudan,Western Bahr el Ghazal,Sub-Saharan Africa,0.491
+South Sudan,Lakes,Sub-Saharan Africa,0.605
+South Sudan,Western Equatoria,Sub-Saharan Africa,0.456
+South Sudan,Central Equatoria,Sub-Saharan Africa,0.391
+South Sudan,Eastern Equatoria,Sub-Saharan Africa,0.561
+Sao Tome and Principe,Regio Autonoma de Principe,Sub-Saharan Africa,0.092
+Sao Tome and Principe,Regio Centro Este,Sub-Saharan Africa,0.059
+Sao Tome and Principe,Regio Norte Oeste,Sub-Saharan Africa,0.132
+Sao Tome and Principe,Regio Sul Este,Sub-Saharan Africa,0.117
+Suriname,Paramaribo,Latin America and Caribbean,0.007
+Suriname,Wanica,Latin America and Caribbean,0.013
+Suriname,Nickerie,Latin America and Caribbean,0.012
+Suriname,Coronie,Latin America and Caribbean,0.006
+Suriname,Saramacca,Latin America and Caribbean,0.011
+Suriname,Commewijne,Latin America and Caribbean,0.008
+Suriname,Marowijne,Latin America and Caribbean,0.026
+Suriname,Para,Latin America and Caribbean,0.023
+Suriname,Brokopondo,Latin America and Caribbean,0.057
+Suriname,Sipaliwini,Latin America and Caribbean,0.172
+Swaziland,Hhohho,Sub-Saharan Africa,0.054
+Swaziland,Lubombo,Sub-Saharan Africa,0.098
+Swaziland,Manzini,Sub-Saharan Africa,0.041
+Swaziland,Shiselweni,Sub-Saharan Africa,0.101
+Syrian Arab Republic,Damascus,Arab States,0.003
+Syrian Arab Republic,Halab,Arab States,0.026
+Syrian Arab Republic,Rural Damascus,Arab States,0.009
+Syrian Arab Republic,Hums,Arab States,0.007
+Syrian Arab Republic,Hama,Arab States,0.01
+Syrian Arab Republic,Latequia,Arab States,0.004
+Syrian Arab Republic,Edlb,Arab States,0.019
+Syrian Arab Republic,Hasaka,Arab States,0.028
+Syrian Arab Republic,Dir Ezor,Arab States,0.047
+Syrian Arab Republic,Tortous,Arab States,0.2366
+Syrian Arab Republic,Raqa,Arab States,0.028
+Syrian Arab Republic,Daraa,Arab States,0.011
+Syrian Arab Republic,As-swidaa,Arab States,0.002
+Syrian Arab Republic,Qonitara,Arab States,0.011
+Chad,Barh El Gazal,Sub-Saharan Africa,0.654
+Chad,Batha,Sub-Saharan Africa,0.659
+Chad,Borkou/Tibesti,Sub-Saharan Africa,0.537
+Chad,Chari Baguirmi,Sub-Saharan Africa,0.646
+Chad,Ennedi,Sub-Saharan Africa,0.625
+Chad,GuðRa,Sub-Saharan Africa,0.643
+Chad,Hadjer-Lamis,Sub-Saharan Africa,0.654
+Chad,Kanem,Sub-Saharan Africa,0.696
+Chad,Lac,Sub-Saharan Africa,0.744
+Chad,Logone Occidental,Sub-Saharan Africa,0.44
+Chad,Logone Oriental,Sub-Saharan Africa,0.504
+Chad,Mandoul,Sub-Saharan Africa,0.529
+Chad,Mayo Kebbi Est,Sub-Saharan Africa,0.509
+Chad,Mayo Kebbi Ouest,Sub-Saharan Africa,0.479
+Chad,Moyen Chari,Sub-Saharan Africa,0.411
+Chad,N'DjamðNa,Sub-Saharan Africa,0.257
+Chad,Ouaddað,Sub-Saharan Africa,0.683
+Chad,Salamat,Sub-Saharan Africa,0.678
+Chad,Sila,Sub-Saharan Africa,0.697
+Chad,Tandjilð,Sub-Saharan Africa,0.487
+Chad,Wadi Fira,Sub-Saharan Africa,0.709
+Togo,Commune de Lome,Sub-Saharan Africa,0.067
+Togo,Region Maritime,Sub-Saharan Africa,0.243
+Togo,Region des Plateaux,Sub-Saharan Africa,0.325
+Togo,Region Centrale,Sub-Saharan Africa,0.236
+Togo,Region de la Kara,Sub-Saharan Africa,0.324
+Togo,Region des Savanes,Sub-Saharan Africa,0.439
+Thailand,,East Asia and the Pacific,0.611
+Tajikistan,Dushanbe,Europe and Central Asia,0.021
+Tajikistan,Gorno-Badakhshan Autonomous Oblast,Europe and Central Asia,0.048
+Tajikistan,Sughd,Europe and Central Asia,0.033
+Tajikistan,Districts of Republican Subordination,Europe and Central Asia,0.045
+Tajikistan,Khatlon,Europe and Central Asia,0.086
+Turkmenistan,,Europe and Central Asia,0.466
+Timor-Leste,Aileu,East Asia and the Pacific,0.379
+Timor-Leste,Ainaro,East Asia and the Pacific,0.444
+Timor-Leste,Baucau,East Asia and the Pacific,0.357
+Timor-Leste,Bobonaro,East Asia and the Pacific,0.406
+Timor-Leste,Cova Lima,East Asia and the Pacific,0.31
+Timor-Leste,Dili,East Asia and the Pacific,0.127
+Timor-Leste,Ermera,East Asia and the Pacific,0.497
+Timor-Leste,Liquica,East Asia and the Pacific,0.387
+Timor-Leste,Lautem,East Asia and the Pacific,0.373
+Timor-Leste,Manufahi,East Asia and the Pacific,0.353
+Timor-Leste,Manatuto,East Asia and the Pacific,0.295
+Timor-Leste,Oecussi,East Asia and the Pacific,0.508
+Timor-Leste,Viqueque,East Asia and the Pacific,0.41
+Trinidad and Tobago,North West,Latin America and Caribbean,0.023
+Trinidad and Tobago,Eastern,Latin America and Caribbean,0.026
+Trinidad and Tobago,North Central,Latin America and Caribbean,0.02
+Trinidad and Tobago,South West,Latin America and Caribbean,0.016
+Trinidad and Tobago,Tobago,Latin America and Caribbean,0.019
+Tunisia,,Arab States,0.466
+"Tanzania, United Republic of",Central,Sub-Saharan Africa,0.332
+"Tanzania, United Republic of",Eastern,Sub-Saharan Africa,0.145
+"Tanzania, United Republic of",Lake,Sub-Saharan Africa,0.346
+"Tanzania, United Republic of",Northern,Sub-Saharan Africa,0.2
+"Tanzania, United Republic of",South West Highlands,Sub-Saharan Africa,0.312
+"Tanzania, United Republic of",Southern,Sub-Saharan Africa,0.296
+"Tanzania, United Republic of",Southern Highlands,Sub-Saharan Africa,0.226
+"Tanzania, United Republic of",Western,Sub-Saharan Africa,0.397
+"Tanzania, United Republic of",Zanzibar,Sub-Saharan Africa,0.143
+Uganda,Kampala,Sub-Saharan Africa,0.076
+Uganda,Central 1,Sub-Saharan Africa,0.3
+Uganda,Central 2,Sub-Saharan Africa,0.294
+Uganda,East Central,Sub-Saharan Africa,0.371
+Uganda,Eastern,Sub-Saharan Africa,0.417
+Uganda,North,Sub-Saharan Africa,0.431
+Uganda,Karamoja,Sub-Saharan Africa,0.634
+Uganda,West Nile,Sub-Saharan Africa,0.484
+Uganda,Western,Sub-Saharan Africa,0.346
+Uganda,Southwest,Sub-Saharan Africa,0.4
+Ukraine,,Europe and Central Asia,0.611
+Uzbekistan,Western,Europe and Central Asia,0.007
+Uzbekistan,Central,Europe and Central Asia,0.011
+Uzbekistan,Southern,Europe and Central Asia,0.016
+Uzbekistan,Central-Eastern,Europe and Central Asia,0.004
+Uzbekistan,Eastern,Europe and Central Asia,0.006
+Uzbekistan,Tashkent,Europe and Central Asia,0.001
+Viet Nam,Red River Delta,East Asia and the Pacific,0.013
+Viet Nam,Northern Midlands and Mountain area,East Asia and the Pacific,0.064
+Viet Nam,North Central and Central Coastal area,East Asia and the Pacific,0.024
+Viet Nam,Central Highlands,East Asia and the Pacific,0.057
+Viet Nam,South East,East Asia and the Pacific,0.017
+Viet Nam,Mekong River Delta,East Asia and the Pacific,0.03
+Vanuatu,,East Asia and the Pacific,0.611
+Yemen,Ibb,Arab States,0.2
+Yemen,Abyan,Arab States,0.136
+Yemen,Sanaa City,Arab States,0.057
+Yemen,Al-Baidha,Arab States,0.191
+Yemen,Taiz,Arab States,0.207
+Yemen,Al-Jawf,Arab States,0.214
+Yemen,Hajjah,Arab States,0.447
+Yemen,Al-Hodiedah,Arab States,0.343
+Yemen,Hadramout,Arab States,0.12
+Yemen,Dhamar,Arab States,0.325
+Yemen,Shabwah,Arab States,0.163
+Yemen,Sadah,Arab States,0.278
+Yemen,Sanaa,Arab States,0.255
+Yemen,Aden,Arab States,0.062
+Yemen,Lahj,Arab States,0.176
+Yemen,Mareb,Arab States,0.214
+Yemen,Al-Mhweit,Arab States,0.349
+Yemen,Al-Mhrah,Arab States,0.105
+Yemen,Amran,Arab States,0.322
+Yemen,Aldhalae,Arab States,0.2
+Yemen,Reimah,Arab States,0.381
+South Africa,,Sub-Saharan Africa,0.466
+Zambia,Central,Sub-Saharan Africa,0.292
+Zambia,Copperbelt,Sub-Saharan Africa,0.158
+Zambia,Eastern,Sub-Saharan Africa,0.369
+Zambia,Luapula,Sub-Saharan Africa,0.392
+Zambia,Lusaka,Sub-Saharan Africa,0.112
+Zambia,Muchinga,Sub-Saharan Africa,0.368
+Zambia,Northern,Sub-Saharan Africa,0.397
+Zambia,North Western,Sub-Saharan Africa,0.334
+Zambia,Southern,Sub-Saharan Africa,0.301
+Zambia,Western,Sub-Saharan Africa,0.399
+Zimbabwe,Bulawayo,Sub-Saharan Africa,0.014
+Zimbabwe,Harare,Sub-Saharan Africa,0.038
+Zimbabwe,Manicaland,Sub-Saharan Africa,0.168
+Zimbabwe,Mashonaland Central,Sub-Saharan Africa,0.21
+Zimbabwe,Mashonaland East,Sub-Saharan Africa,0.14
+Zimbabwe,Mashonaland West,Sub-Saharan Africa,0.192
+Zimbabwe,Masvingo,Sub-Saharan Africa,0.174
+Zimbabwe,Matabeleland North,Sub-Saharan Africa,0.238
+Zimbabwe,Matabeleland South,Sub-Saharan Africa,0.164
+Zimbabwe,Midlands,Sub-Saharan Africa,0.176
