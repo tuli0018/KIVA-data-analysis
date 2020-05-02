@@ -86,9 +86,16 @@ class Assignment1Test extends AnyFunSuite with Matchers with BeforeAndAfterEach 
     Assignment1.problem1(mpiDataRdd) must equal("Country: Chad, Region: Lac, World Region: Sub-Saharan Africa, MPI: 0.744")
   }
 
-  test("Total count of loans from poorest country") {
-    Assignment1.problem2(loanDataDF) must equal ("79 100525")
+  test("Total count of loans from poorest country and sum of loans") {
+    Assignment1.problem2(loanDataDF) must equal ("Total # of loans: 79, Total loan amount: 100525, Total amount pending funding: 73500")
   }
+
+  test("thirdname") {
+    Assignment1.problem3(lenderDataDF, loanDataDF) must contain("Clothing")
+  }
+/*  test("third test") {
+    Assignment1.problem3(lenderDataDF, loanDataDF) must contain ("Clothing")
+  }*/
 /*  /**
    * Find all trips starting at the 'San Antonio Shopping Center' station.
    */

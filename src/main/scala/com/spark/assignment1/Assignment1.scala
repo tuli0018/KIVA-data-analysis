@@ -2,6 +2,8 @@ package com.spark.assignment1
 
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
+
+import org.apache.spark
 import org.apache.spark.sql.functions._
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.types.StructType
@@ -31,22 +33,35 @@ object Assignment1 {
      s"Country: $country, Region: $region, World Region: $world_region, MPI: $mpi"
   }
 
-  //2)	Total # and amount of loan requested by the country of highest poverty.
-/*  def problem2(loansData: RDD[Loans]): String = {
-    val loanSum = {
-      loansData.filter(_.country == "Chad")
-    }
-    val count = loansData.filter(_.country == "Chad").count()
-    loansData.groupBy("")
-    s"$count $loanSum"
-  }*/
+  //Total # and amount of loan requested by the country of highest poverty
+  //and loan amount that is pending funding.
   def problem2(loans: DataFrame) : String = {
   val count = loans.filter(loans("country") === "Chad").count()
   val sumOfLoans = loans.filter(loans("country") === "Chad").select(sum("loan_amount")).collect().head.getLong(0)
-
-  s"$count $sumOfLoans"
+  val sumOfFunded = loans.filter(loans("country") === "Chad").select(sum("funded_amount")).collect().head.getLong(0)
+  val pendingAmount = sumOfLoans-sumOfFunded
+  s"Total # of loans: $count, Total loan amount: $sumOfLoans, Total amount pending funding: $pendingAmount"
 
 }
+
+  //First recommendation : for the country Chad, find the business_sector that has the most need of money
+  //match business sector with a lender from that country with the highest priority.
+  //Second recommendation: find the lender with the most amount of lended money in Chad.
+  //Return comma seperated String as result.
+  def problem3(lenders: DataFrame, loans: DataFrame) : Unit = {
+    val listOfThemes : List[String] = loans.filter(loans("country") === "Chad").select(loans("business_sector"))
+    println(listOfThemes)
+  }
+  /*To find a list of 2 top loan providers and match them to our poorest country
+  1) Lender with highest # of loans provided for our theme
+  2) Lender who is from the same country and has donated for the cause
+  */
+/*
+  def problem3(lender: DataFrame, loans: DataFrame) : Unit = {
+    val listOfThemes: List[Row] = loans.filter(loans("Country") === "Chad").select(loans("business_sector")).show()
+    print(listOfThemes)
+  }
+*/
 
 /*  def problem2(trips: RDD[Loans]): Long = {
     trips.filter(_.start_station == "San Antonio Shopping Center").count()
