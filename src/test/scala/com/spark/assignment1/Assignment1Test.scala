@@ -90,12 +90,29 @@ class Assignment1Test extends AnyFunSuite with Matchers with BeforeAndAfterEach 
     Assignment1.problem2(loanDataDF) must equal ("Total # of loans: 79, Total loan amount: 100525, Total amount pending funding: 73500")
   }
 
-  test("thirdname") {
-    Assignment1.problem3(lenderDataDF, loanDataDF) must contain("Clothing")
+  test("First and second best choices of lenders for the theme type that is suffering the most in Chad") {
+    Assignment1.problem3(lenderDataDF, loanDataDF, spark) must equal ("First match: Turame Community Finance, second match: Babban Gona Farmers Organization")
   }
-/*  test("third test") {
-    Assignment1.problem3(lenderDataDF, loanDataDF) must contain ("Clothing")
-  }*/
+
+  test("Most likely lender") {
+    Assignment1.problem4(lenderDataDF, spark) must equal ("Babban Gona Farmers Organization")
+  }
+
+  test("which business sector needs most amount of loan money") {
+    Assignment1.problem5(loanDataDF, spark) must equal ("Agriculture")
+  }
+
+  test("Total # of lenders that spealize in Food theme") {
+    Assignment1.problem6(lenderDataDF, spark) must not equal ("4")
+  }
+
+  test("Information for the loan that will get funded for sure") {
+    Assignment1.problem7(loanDataDF, spark) must contain ("Limata")
+  }
+
+  test("Country") {
+    Assignment1.problem8(loanDataDF, spark) must not equal ("Chad")
+  }
 /*  /**
    * Find all trips starting at the 'San Antonio Shopping Center' station.
    */

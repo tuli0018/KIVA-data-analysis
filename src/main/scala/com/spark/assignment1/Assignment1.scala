@@ -7,7 +7,7 @@ import org.apache.spark
 import org.apache.spark.sql.functions._
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.types.StructType
-import org.apache.spark.sql.{Column, DataFrame, Row}
+import org.apache.spark.sql.{Column, DataFrame, Row, SparkSession}
 
 object Assignment1 {
 
@@ -48,21 +48,62 @@ object Assignment1 {
   //match business sector with a lender from that country with the highest priority.
   //Second recommendation: find the lender with the most amount of lended money in Chad.
   //Return comma seperated String as result.
-  def problem3(lenders: DataFrame, loans: DataFrame) : Unit = {
-    val listOfThemes : List[String] = loans.filter(loans("country") === "Chad").select(loans("business_sector"))
-    println(listOfThemes)
+  def problem3(lenders: DataFrame, loans: DataFrame, spark: SparkSession) : String = {
+    loans.createOrReplaceTempView("loans_table")
+    lenders.createOrReplaceTempView("lenders_table")
+    val loan_query = spark.sql("SELECT business_sector, COUNT(business_sector) FROM loans_table WHERE country = 'Chad' GROUP BY business_sector ORDER BY COUNT(business_sector) DESC LIMIT 1")
+    val temp = loan_query.collect().map(x => (x.getAs[String](0), x.getAs[Int](1)))
+    val resource_needs_help = temp(0)._1.toString
+    val lenders_query_first = spark.sql(s"SELECT lender_name, loan_theme_type,number_of_loans FROM lenders_table WHERE country = 'Chad' AND loan_theme_type = '${resource_needs_help}' ORDER BY number_of_loans DESC LIMIT 1")
+    val temp_2 = lenders_query_first.collect().map(x => (x.getAs[String](0), x.getAs[String](1), x.getAs[Int](2)))
+    val first_lender_name = temp_2(0)._1
+    val lenders_query_second = spark.sql(s"SELECT lender_name, loan_theme_type, number_of_loans FROM lenders_table WHERE loan_theme_type = '${resource_needs_help}' ORDER BY number_of_loans DESC LIMIT 1")
+    val temp_3 = lenders_query_second.collect().map(x => (x.getAs[String](0), x.getAs[String](1), x.getAs[Int](2)))
+    val second_lender_name = temp_3(0)._1
+    s"First match: $first_lender_name, second match: $second_lender_name"
   }
   /*To find a list of 2 top loan providers and match them to our poorest country
   1) Lender with highest # of loans provided for our theme
   2) Lender who is from the same country and has donated for the cause
   */
-/*
-  def problem3(lender: DataFrame, loans: DataFrame) : Unit = {
-    val listOfThemes: List[Row] = loans.filter(loans("Country") === "Chad").select(loans("business_sector")).show()
-    print(listOfThemes)
-  }
-*/
 
+  def problem4(lenders: DataFrame, spark: SparkSession) : String = {
+    lenders.createOrReplaceTempView("lenders_table")
+    val lenders_query = spark.sql("SELECT lender_name, number_of_loans FROM lenders_table WHERE lender_name IN ('Turame Community Finance','Babban Gona Farmers Organization') AND loan_theme_type = 'Food' ORDER BY number_of_loans DESC LIMIT 1")
+    val temp = lenders_query.collect().map(x => (x.getAs[String](0), x.getAs[Int](1)))
+    s"${temp(0)._1}"
+  }
+
+  def problem5(loans: DataFrame, spark: SparkSession) : String = {
+    loans.createOrReplaceTempView("loans_table")
+    val loans_query = spark.sql("SELECT business_sector, COUNT(business_sector) FROM loans_table GROUP BY business_sector ORDER BY COUNT(business_sector) DESC LIMIT 1")
+    val temp = loans_query.collect().map(x => (x.getAs[String](0), x.getAs[Int](1)))
+    s"${temp(0)._1}"
+  }
+
+  def problem6(lenders: DataFrame, spark: SparkSession) : String = {
+    lenders.createOrReplaceTempView("lenders_table")
+    val lenders_query = spark.sql("SELECT COUNT(DISTINCT (partner_id)) FROM lenders_table WHERE loan_theme_type = 'Food'")
+    val tempCollector = lenders_query.collect().map(x => (x.getAs[Long](0)))
+    s"$tempCollector"
+  }
+
+  def problem7(loans: DataFrame, spark: SparkSession) : String = {
+    loans.createOrReplaceTempView("loans_table")
+    val loan_id_temp_query = spark.sql("SELECT funded_amount FROM loans_table ORDER BY amount_needed ASC LIMIT 1")
+    val amount_needed_temp = loan_id_temp_query.collect().map(x => x.getAs[Int](0))
+    val loan_information_query  = spark.sql(s"SELECT loans_table.loan_id, loans_table.borrower_name, loans_table.loan_amount, loans_table.funded_amount, loans_table.lars_ratio, loans_table.borrower_rating, loans_table.country, loans_table.business_sector FROM loans_table WHERE amount_needed = ${amount_needed_temp} ORDER BY profile_popularity DESC LIMIT 1")
+    val temp = loan_information_query.collect().map(x => (x.getAs[Int](0), x.getAs[String](1), x.getAs[Int](2), x.getAs[Int](3), x.getAs[Double](4), x.getAs[Double](5), x.getAs[String](6), x.getAs[String](7)))
+
+    s"${temp(0)._1.toString}, ${temp(0)._2.toString}, ${temp(0)._3.toString}, ${temp(0)._4.toString}, ${temp(0)._5.toString}, ${temp(0)._6.toString}, ${temp(0)._7.toString}, ${temp(0)._8.toString}"
+  }
+
+  def problem8(loans: DataFrame, spark: SparkSession) : String = {
+    loans.createOrReplaceTempView("loans_table")
+    val query = spark.sql("SELECT country,profile_popularity, COUNT(profile_popularity) FROM loans_table WHERE profile_popularity = 5 GROUP BY profile_popularity ORDER BY COUNT(profile_popularity) DESC LIMIT 1")
+    val temp = query.collect().map(x => (x.getAs[String](0)))
+    s"${temp(0)}"
+  }
 /*  def problem2(trips: RDD[Loans]): Long = {
     trips.filter(_.start_station == "San Antonio Shopping Center").count()
   }
