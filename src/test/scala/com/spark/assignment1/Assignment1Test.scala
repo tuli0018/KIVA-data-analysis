@@ -79,135 +79,74 @@ class Assignment1Test extends AnyFunSuite with Matchers with BeforeAndAfterEach 
   }
 
   /**
-   * We have to prove to the governor that our ride service is being used.
-   * Find the total ride duration across all trips.
+    * Q- Which country and region has the highest poverty?
    */
   test("Find the largest MPI") {
-    Assignment1.problem1(mpiDataRdd) must equal("Country: Chad, Region: Lac, World Region: Sub-Saharan Africa, MPI: 0.744")
+    Assignment1.problem1(mpiDataRdd) must equal("""
+                                                  |     1)Country: Chad
+                                                  |     2)Region: Lac
+                                                  |     3)World Region: Sub-Saharan Africa
+                                                  |     4)MPI: 0.744
+                                                  |     """.stripMargin)
   }
 
+  /**
+    * Q - Total # and amount of loan requested by the country of highest poverty.
+    */
   test("Total count of loans from poorest country and sum of loans") {
-    Assignment1.problem2(loanDataDF) must equal ("Total # of loans: 79, Total loan amount: 100525, Total amount pending funding: 73500")
+    Assignment1.problem2(loanDataDF, mpiDataRdd) must equal ("Total # of loans: 79, Total loan amount: 100525, Total amount pending funding: 73500")
   }
 
+  /**
+    * Q - List of lenders that can fulfill this loan.
+    */
   test("First and second best choices of lenders for the theme type that is suffering the most in Chad") {
-    Assignment1.problem3(lenderDataDF, loanDataDF, spark) must equal ("First match: Turame Community Finance, second match: Babban Gona Farmers Organization")
+    Assignment1.problem3(lenderDataDF, loanDataDF, spark) must equal (
+      """First match: Turame Community Finance
+        |    second match: Babban Gona Farmers Organization""".stripMargin)
   }
 
+  /**
+    * Q - Which lender is most likely to fund their loan?
+    */
   test("Most likely lender") {
-    Assignment1.problem4(lenderDataDF, spark) must equal ("Babban Gona Farmers Organization")
+    Assignment1.problem4(lenderDataDF, spark, loanDataDF) must equal ("Vendor that is most likely to fund: Turame Community Finance with a total of 2228 funded loans the Food sector")
   }
 
-  test("which business sector needs most amount of loan money") {
-    Assignment1.problem5(loanDataDF, spark) must equal ("Agriculture")
+  /**
+    * Q - Which sector of the market has the highest requirement for loans?
+    */
+  test("Which sector of the market has the highest requirement for loans?") {
+    Assignment1.problem5(loanDataDF, spark) must equal ("sector with the highest requirement of loans is Agriculture")
   }
 
-  test("Total # of lenders that spealize in Food theme") {
-    Assignment1.problem6(lenderDataDF, spark) must not equal ("4")
+  /**
+    * Q - Total # of lenders that specialize loans in that sector of the market?
+    */
+  test("Total # of lenders that specialize loans in that sector of the market?") {
+    Assignment1.problem6(lenderDataDF, spark, loanDataDF) must equal ("Total number of vendors that specialize in the Agriculture sector are 8")
   }
 
+  /**
+    * Q - Information (loan ID, requester name, partner name, loan amount etc) of the loan that is most likely to be fundraised.
+    */
   test("Information for the loan that will get funded for sure") {
-    Assignment1.problem7(loanDataDF, spark) must contain ("Limata")
-  }
-
-  test("Country") {
-    Assignment1.problem8(loanDataDF, spark) must not equal ("Chad")
-  }
-/*  /**
-   * Find all trips starting at the 'San Antonio Shopping Center' station.
-   */
-  test("All trips starting at the 'San Antonio Shopping Center' station") {
-    Assignment1.problem2(tripDataRdd) must equal(1069)
-  }
-
-  /**
-   * List out all the subscriber types from the 'trip' dataset.
-   */
-  test("List out all subscriber types") {
-    Assignment1.problem3(tripDataRdd).toSet must equal(Set("Customer", "Subscriber"))
+    Assignment1.problem7(loanDataDF, spark) must equal ("""
+                                                          |        1)Loan ID: 1952112
+                                                          |        2)Borrower First Name: Gloria
+                                                          |        3)Loan Amount: 600
+                                                          |        4)Funded Amount: 575
+                                                          |        5)Amount Needed: 25
+                                                          |        6)Borrower's Rating (%):50.0
+                                                          |        7)Country: Philippines
+                                                          |        8)Business Sector: Food
+                                                          |        """.stripMargin)
   }
 
   /**
-   * Find the zip code with the most rides taken.
-   */
-  test("Busiest zipcode") {
-    Assignment1.problem4(tripDataRdd) must equal("94107")
+    * Q - Which sector has the least chance of loans to be fundraised.
+    */
+  test("Which sector has the least chance of loans to be fundraised.") {
+    Assignment1.problem8(loanDataDF, spark) must equal ("Education sector has the least chance of loan fundraising because of an average borrower rating of 2.04")
   }
-
-  /**
-   * Some people keep their bikes for a long time. How many people keep their bikes overnight?
-   */
-  test("Trips that went overnight") {
-    Assignment1.problem5(tripDataRdd) must equal(920)
-  }
-
-  /**
-   * What is the total number of records in the trips dataset?
-   */
-  test("Get the dataset count") {
-    Assignment1.problem6(tripDataRdd) must equal(354152)
-  }
-
-  /**
-   * What percentage of people keep their bikes overnight at least on night?
-   */
-  test("Get the percentage of trips that went overnight") {
-    Assignment1.problem7(tripDataRdd) must be(0.0025 +- .0003)
-  }
-
-  /**
-   * Ope! The docks were miscalibrated and only counted half of a trip duration. Double the duration of each trip so
-   * we can have an accurate measurement.
-   */
-  test("Double the duration of each trip") {
-    Assignment1.problem8(tripDataRdd) must equal (7.40909118E8)
-  }
-
-  /**
-   * Find the coordinates (latitude and longitude) of the trip with the id 913401.
-   */
-  test("Coordinates of trip id 913401") {
-    Assignment1.problem9(tripDataRdd, stationDataRdd) must equal ((37.781039,-122.411748))
-  }
-
-  /**
-   * Find the duration of all trips by starting at each station.
-   * To complete this you will need to join the Station and Trip RDDs.
-   *
-   * The result must be a Array of pairs Array[(String, Long)] where the String is the station name
-   * and the Long is the summation.
-   */
-  test("Duration by station") {
-    val result = Assignment1.problem10(tripDataRdd, stationDataRdd).toSeq
-    result.length must equal (68)
-    result must contain (("San Antonio Shopping Center",2937220))
-    result must contain (("Temporary Transbay Terminal (Howard at Beale)",8843806))
-  }
-
-
-
-  /*
-   * DATAFRAMES
-   */
-
-  /**
-   * Select the 'trip_id' column
-   */
-  test("Select the 'trip_id' column") {
-    Assignment1.dfProblem11(tripDataDF).schema.length must equal (1)
-  }
-
-  /**
-   * Count all the trips starting at 'Harry Bridges Plaza (Ferry Building)'
-   */
-  test("Count of all trips starting at 'Harry Bridges Plaza (Ferry Building)'") {
-    Assignment1.dfProblem12(tripDataDF).count() must equal (17255)
-  }
-
-  /**
-   * Sum the duration of all trips
-   */
-  test("Sum the duration of all trips") {
-    Assignment1.dfProblem13(tripDataDF) must equal (370454559)
-  }*/
 }
