@@ -149,4 +149,11 @@ class Assignment1Test extends AnyFunSuite with Matchers with BeforeAndAfterEach 
   test("Which sector has the least chance of loans to be fundraised.") {
     Assignment1.problem8(loanDataDF, spark) must equal ("Education sector has the least chance of loan fundraising because of an average borrower rating of 2.04")
   }
+
+  /**
+    * Q-	Which country has the highest # of loans that are most likely to be fundraised.
+    */
+  test("Which country has the highest # of loans that are most likely to be fundraised.") {
+    Assignment1.problem9(loanDataDF, spark) must equal ("Georgia has a total of 2 loans that are most likely to be fundraised")
+  }
 }
