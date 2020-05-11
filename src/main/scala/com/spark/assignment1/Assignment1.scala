@@ -192,4 +192,18 @@ object Assignment1 {
     //return statement
     s"${temp_amount(0)._1} sector has the least chance of loan fundraising because of an average borrower rating of ${formatter.format(temp_amount(0)._2)}"
   }
+
+  def problem9(loans: DataFrame, spark: SparkSession) : String = {
+    loans.createOrReplaceTempView("loans_table")
+
+    val temp_query = spark.sql("SELECT country, AVG(borrower_rating) FROM loans_table GROUP BY country ORDER BY AVG(borrower_rating) DESC LIMIT 3")
+
+    val temp_results = temp_query.collect().map(x => (x.getAs[String](0), x.getAs[Double](1)))
+
+    val final_query = spark.sql(s"SELECT country, COUNT(loan_id) FROM loans_table WHERE country in ('${temp_results(0)._1}', '${temp_results(1)._1}', '${temp_results(2)._1}') GROUP BY country ORDER BY COUNT(loan_id) ASC LIMIT 1")
+
+    val final_results = final_query.collect().map(x => (x.getAs[String](0), x.getAs[Long](1)))
+
+    s"${final_results(0)._1} has a total of ${final_results(0)._2} loans that are most likely to be fundraised"
+  }
 }
